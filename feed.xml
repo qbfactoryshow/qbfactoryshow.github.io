@@ -23,9 +23,6 @@
         <itunes:image href="https://qbfactoryshow.github.io/logo.jpg" />
         <itunes:category text="Sports">
             <itunes:category text="Football"></itunes:category>
-            <itunes:category text="Basketball"></itunes:category>
-            <itunes:category text="Hockey"></itunes:category>
-            <itunes:category text="Baseball"></itunes:category>
         </itunes:category>
         <itunes:explicit>true</itunes:explicit>
         <item>
