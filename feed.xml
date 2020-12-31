@@ -1,0 +1,54 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+    <channel>
+        <title>Quarterback Factory Show</title>
+        <link>http://www.qbfactory.show/</link>
+        <language>en-us</language>
+        <atom:link href="https://qbfactoryshow.github.io/feed.xml" rel="self" type="application/rss+xml" />
+        <copyright>Quarterback Factory Show</copyright>
+        <itunes:subtitle>Philly Sports Talk</itunes:subtitle>
+        <itunes:author>Quarterback Factory Show</itunes:author>
+        <itunes:summary>
+            Sports talk for the Philadelpha region from a handful of die hard Philadelphians
+        </itunes:summary>
+        <itunes:keywords>
+            philly,sports,philadelphia,eagles,sixers,phillies,flyers
+        </itunes:keywords>
+        <description>
+            Sports talk for the Philadelpha region from a handful of die hard Philadelphians
+        </description>
+        <itunes:owner>
+            <itunes:name>Quarterback Factory Show</itunes:name>
+            <itunes:email>contact@qbfactory.show</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://qbfactoryshow.github.io/logo.jpg" />
+        <itunes:category text="Sports"></itunes:category>
+        <itunes:category text="Football"></itunes:category>
+        <itunes:category text="Basketball"></itunes:category>
+        <item>
+            <link>https://www.qbfactory.show</link>
+            <itunes:author>Quarterback Factory Show</itunes:author>
+            <title>This is The End</title>
+            <itunes:subtitle>This is The End</itunes:subtitle>
+            <itunes:summary> <![CDATA[ THIS IS THE END - One mor emeaningless game to go ---------------------------------------- Email(for business inquiries only):contact@qbfactory.show -... ]]> </itunes:summary>
+            <description> <![CDATA[ THIS IS THE END - One mor emeaningless game to go ---------------------------------------- Email(for business inquiries only):contact@qbfactory.show -... ]]> </description>
+            <enclosure url='https://qbfactoryshow.github.io/mp3/qbfs.2020.s01e31.This.Is.The.End.mp3' length='102621543' type='audio/mpeg'/>
+            <itunes:duration>6820</itunes:duration>
+            <guid isPermaLink='false'>https://qbfactoryshow.github.io/mp3/qbfs.2020.s01e31.This.Is.The.End.mp3</guid>
+            <pubDate>Wed, 30 Dec 2020 21:00:00 EST</pubDate>
+            <itunes:explicit>true</itunes:explicit>
+        </item>
+        <item>
+            <link>https://www.qbfactory.show</link>
+            <itunes:author>Quarterback Factory Show</itunes:author>
+            <title>The Phestivus Episode</title>
+            <itunes:subtitle>The Phestivus Episode</itunes:subtitle>
+            <itunes:summary> <![CDATA[ The Phestivus Episode - A Phestivus for the rest of us ---------------------------------------- Email(for business inquiries only):contact@qbfactory.show -... ]]> </itunes:summary>
+            <description> <![CDATA[ The Phestivus Episode - A Phestivus for the rest of us ---------------------------------------- Email(for business inquiries only):contact@qbfactory.show -... ]]> </description>
+            <enclosure url='https://qbfactoryshow.github.io/mp3/qbfs.2020.s01e30.The.Phestivus.Episode.mp3' length='97418733' type='audio/mpeg'/>
+            <itunes:duration>6388</itunes:duration>
+            <guid isPermaLink='false'>https://qbfactoryshow.github.io/mp3/qbfs.2020.s01e30.The.Phestivus.Episode.mp3</guid>
+            <pubDate>Wed, 23 Dec 2020 21:00:00 EST</pubDate>
+            <itunes:explicit>true</itunes:explicit>
+        </item>
+    </channel>
+</rss>
