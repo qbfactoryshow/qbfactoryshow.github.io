@@ -1,1 +1,1 @@
-"# qbfactoryshow.github.io" 
+# qbfactoryshow.github.io
