@@ -26,6 +26,19 @@
         </itunes:category>
         <itunes:explicit>true</itunes:explicit>
         <item>
+            <link>https://qbfactory.show</link>
+            <itunes:author>Quarterback Factory Show</itunes:author>
+            <title>Doug's Demise</title>
+            <itunes:subtitle>Doug's Demise</itunes:subtitle>
+            <itunes:summary> <![CDATA[ Doug's Demise  -- Email(for business inquiries only):contact@qbfactory.show -... ]]> </itunes:summary>
+            <description> <![CDATA[ Doug's Demise  -- Email(for business inquiries only):contact@qbfactory.show -... ]]> </description>
+            <enclosure url='https://qbfactoryshow.github.io/mp3/qbfs.2020.s01e33.Dougs.Demise.mp3' length='146312834' type='audio/mpeg'/>
+            <itunes:duration>6096</itunes:duration>
+            <guid isPermaLink='false'>https://qbfactoryshow.github.io/mp3/qbfs.2020.s01e33.Dougs.Demise.mp3</guid>
+            <pubDate>Thu, 14 Jan 2021 23:00:00 EST</pubDate>
+            <itunes:explicit>true</itunes:explicit>
+        </item>
+        <item>
             <link>https://www.qbfactory.show</link>
             <itunes:author>Quarterback Factory Show</itunes:author>
             <title>This is The End</title>
